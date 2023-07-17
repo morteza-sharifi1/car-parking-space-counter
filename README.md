@@ -27,7 +27,7 @@ python main.py --image carparkImg.png
 To count parking spaces in a video, you can use the same **main.py** script. Here's an example usage:
 python main.py --video park.mp4
 
-The parkingspacepicker.py script provides a graphical user interface (GUI) to manually label parking spaces in an image. It can be used to create ground truth data for training or evaluation purposes.
+The **parkingspacepicker.py** script provides a graphical user interface (GUI) to manually label parking spaces in an image. It can be used to create ground truth data for training or evaluation purposes.
 
 For more details on how to use these scripts and customize the project, please refer to the source code and the documentation within the repository.
 
